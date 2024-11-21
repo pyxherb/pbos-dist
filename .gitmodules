@@ -1,0 +1,12 @@
+[submodule "lib/freestdc"]
+	path = lib/freestdc
+	url = https://github.com/pyxherb/freestdc
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/pyxherb/pbos-kernel
+[submodule "common"]
+	path = common
+	url = https://github.com/pyxherb/pbos-common
+[submodule "utils"]
+	path = utils
+	url = https://github.com/pyxherb/pbos-utils
